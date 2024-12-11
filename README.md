@@ -5,6 +5,8 @@
 <br> 
 <br>
 <p>Estrutura do projeto</p>
+<br>
+<br>
 <ul>
   <li>index.html: Estrutura principal da página.</li>
   
@@ -12,6 +14,9 @@
   
   <li>image: Pasta com as imagens do projeto./li>
 </ul>
+
+<br>
+<br>
 
 <h3>Visual do template</h3>
 
